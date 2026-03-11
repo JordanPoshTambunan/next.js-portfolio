@@ -81,7 +81,7 @@ const ProjectsSection = () => {
                 <div className='relative md:order-1'>
                     <div tabIndex={0} className='group cursor-pointer rounded-2xl overflow-hidden bg-[#060d1f] border border-[#1c2d55] shadow-[0_0_90px_rgba(48,90,208,0.28)] transition-transform duration-300 hover:-translate-y-1 focus:-translate-y-1'>
                         <div className='overflow-hidden md:h-[360px] h-[250px]'>
-                            <Image src="/images/sqli.gif" alt='SQL Injection Demo' fill className='object-cover' unoptimized/>
+                            <Image src="/images/sqlii.gif" alt='SQL Injection Demo' fill className='object-cover' unoptimized/>
                         </div>
                     </div>
                 </div>
