@@ -129,11 +129,11 @@ const ProjectsSection = () => {
                 <div className='relative md:order-2 z-10'>
                     <div className='mb-8 text-right'>
                         <p className='text-xs text-[#7ba3e0]'>LPPM Universitas Katolik Widya Mandala Surabaya Web Pentest · 2025</p>
-                        <h3 className='text-2xl md:text-3xl font-semibold text-white/90'>Remote Code Execution + RSA ID</h3>
+                        <h3 className='text-2xl md:text-3xl font-semibold text-white/90'>Remote Code Execution + RSA ID Exposure</h3>
                     </div>
 
                     <div className='relative z-20 max-w-5xl rounded-2xl p-5 bg-white/6 backdrop-blur-sm border border-white/10 shadow-[0_6px_50px_rgba(48,90,208,0.25)]'>
-                        <p className='text-sm p-4 text-white/75'>Web Penetration Testing for our client alrahdenhotel, in this case found some critical vulnerability. Structured Query Language (SQL) injection is a vulnerability that attacker can read target database and can read and take over target database.</p>
+                        <p className='text-sm p-4 text-white/75'>Web Penetration Testing for LPPM Universitas Katolik Widya Mandala Surabaya, in this case found some critical vulnerability. This website using an old frameworm next js, that vulnerable to Remote Code Excecution. On id andrew get file ssh and can to cat and write that file and found key RSA ID.</p>
                         <div className="pointer-events-none absolute -inset-px rounded-[14px] opacity-60"
                         style={{
                             background: 'linear-gradient(135deg, rgba(48, 90, 208, 0.35), rgba(48, 90, 208, 0.05))',
@@ -141,9 +141,9 @@ const ProjectsSection = () => {
                         />
                     </div>
                     <div className='mt-6 ml-2 flex justify-end space-x-3 text-white/60 text-xs'>
-                        <span className='px-2 py-1 rounded-full border border-white/10 bg-white/5'>SQLMAP</span>
+                        <span className='px-2 py-1 rounded-full border border-white/10 bg-white/5'>RCE</span>
                         <span className='px-2 py-1 rounded-full border border-white/10 bg-white/5'>Web Pentest</span>
-                        <span className='px-2 py-1 rounded-full border border-white/10 bg-white/5'>Injection</span>
+                        <span className='px-2 py-1 rounded-full border border-white/10 bg-white/5'>Root</span>
                     </div>
                 </div>
 

@@ -24,7 +24,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-4 flex items-center justify-between">
         {/* logo */}
         <Link href="/" className="text-2xl font-extrabold text-[#305AD0]">
-          JP
+          
         </Link>
 
         {/* desktop naviation menu */}
@@ -45,7 +45,7 @@ const Header = () => {
             href="#lab"
             className="hover:text-[#5a8af5] transition duration-200"
           >
-            Skills
+            Certifications
           </Link>
           <Link
             href="#projects"
