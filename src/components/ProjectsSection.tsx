@@ -39,7 +39,7 @@ const ProjectsSection = () => {
                 <div>
                     <div tabIndex={0} className='group cursor-pointer rounded-2xl overflow-hidden bg-[#060d1f] border border-[#1c2d55] shadow-[0_0_90px_rgba(48,90,208,0.28)] transition-transform duration-300 hover:-translate-y-1 focus:-translate-y-1'>
                         <div className='overflow-hidden h-[360px]'>
-                            <Image src="/images/Portfolio.png" alt='project-1' width={582} height={640} className='w-full h-auto transition-transform duration-3500 ease-linear group-hover:-translate-y-[55%] group-active:-translate-y-[55%] group-focus:-translate-y-[55%]'/>
+                            <Image src="/images/xss.jpeg" alt='project-1' width={582} height={640} className='w-full h-auto transition-transform duration-3500 ease-linear group-hover:-translate-y-[55%] group-active:-translate-y-[55%] group-focus:-translate-y-[55%]'/>
                         </div>
                     </div>
                 </div>
