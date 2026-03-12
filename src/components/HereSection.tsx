@@ -17,7 +17,7 @@ const HereSection = () => {
           <div className="relative flex justify-center md:justify-end">
             <div className="pointer-events-none absolute -inset-12 md:-inset-24 rounded-full bg-linear-to-b from-[#305AD0] vai-[#1e3a8a]/30 to-transparent blur-3xl opacity-90"></div>
             <div className="relative">
-                <Image src="/images/avatar.png" alt="avatar image" width={240} height={240} className="relative" priority/>
+                <Image src="/images/avatar2.png" alt="avatar image" width={140} height={170} className="relative" priority/>
 
                 {/* small greeting with curve arrow */}
                 <div  className="select-none pointer-events-none absolute -top-8 -right-6 md:-top-16 md:-right-40 text-xs text-white/70">
@@ -80,11 +80,10 @@ const HereSection = () => {
                 />
             </h2>
             <p>Currently, an Informatics student at <span className="inline-flex items-center gap-1 text-[#305AD0]">
-                <FaShieldAlt className="size-4" aria-hidden/>
-                   Universitas Udayana,
-            </span> with a 3.91 GPA.</p>
+                   Udayana University
+            </span></p>
 
-            <p className="mt-6 text-white/70 leading-7">A passionate CyberSecurity professional with hands-on experience in penetration testing, threat hunting, and cloud security. Experienced in vulnerability assessment on web &amp; mobile applications, security monitoring using SIEM (Wazuh), and certified as an Ethical Hacker (CEH). I believe security is not an option — it&apos;s a foundation.</p>
+            <p className="mt-6 text-white/70 leading-7">A passionate CyberSecurity professional with hands-on experience in penetration testing, threat hunting, and cloud security. Experienced in vulnerability assessment on web &amp; mobile applications, security monitoring using SIEM (Wazuh), and certified as an Ethical Hacker (CEH). I believe security is not an option it's a foundation.</p>
         </ScrollReveal>
       </div>
     </section>

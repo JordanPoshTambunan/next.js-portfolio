@@ -20,7 +20,7 @@ const experienceItems: ExperienceItem[] = [
     type: "Bootcamp",
     description:
       "Vulnerability assessment, penetration testing, threat hunting, and security log analysis on web applications and network systems.",
-    image: "/images/work-expriences-1.png",
+    image: "/images/merdeka-siber.png",
   },
   {
     title: "SOC Analyst (Level 1)",
@@ -29,7 +29,7 @@ const experienceItems: ExperienceItem[] = [
     type: "Internship",
     description:
       "Security monitoring using SIEM (Wazuh), penetration testing on web & mobile apps, and ISO/IEC 27001 implementation.",
-    image: "/images/work-expriences-2.png",
+    image: "/images/ssi.png",
   },
   {
     title: "Junior CyberSecurity Engineer",
@@ -38,7 +38,7 @@ const experienceItems: ExperienceItem[] = [
     type: "Internship",
     description:
       "Cloud security risk assessment, threat modeling, and network traffic analysis using Wireshark on cloud-based applications.",
-    image: "/images/work-expriences-3.png",
+    image: "/images/vinix.png",
   },
   {
     title: "Certified Ethical Hacker Trainee",
@@ -47,7 +47,7 @@ const experienceItems: ExperienceItem[] = [
     type: "Bootcamp",
     description:
       "Ethical hacking methodology, vulnerability scanning, exploitation analysis, and penetration testing report writing based on CEH standards.",
-    image: "/images/work-expriences-4.png",
+    image: "/images/coursenet.png",
   },
 ];
 
