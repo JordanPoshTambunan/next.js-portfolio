@@ -15,7 +15,7 @@ const ProjectsSection = () => {
                 <div className='relative z-10'>
                     <div className='mb-8'>
                         <p className='text-xs text-[#7ba3e0]'>Bug Bounty · 2026</p>
-                        <h3 className='text-2xl md:text-3xl font-semibold text-white/90'>Information Disclosure Potential LFI</h3>
+                       <h3 className='text-2xl md:text-3xl font-semibold text-[#ffd60a]'>Information Disclosure Potential LFI</h3>
                     </div>
 
                     <div className='relative z-20 max-w-5xl rounded-2xl p-5 bg-white/6 backdrop-blur-sm border border-white/10 shadow-[0_6px_50px_rgba(48,90,208,0.25)]'>
